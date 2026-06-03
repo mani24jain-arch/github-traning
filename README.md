@@ -18,6 +18,12 @@ OK → OK → OK.
 4. CMD Reopen Karo
 Purana Command Prompt band karo.
 Naya CMD open karo.
+
 5. Installation Verify Karo
 
 CMD me command run karo:
+terraform -version 
+terrform init
+terraform validate 
+terraform plan 
+terraform apply
